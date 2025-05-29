@@ -1,3 +1,6 @@
+Karena ada kesalahan upload 
+berikut Link untuk mengakses file Mobile yang dibuat : https://github.com/Sidqiamn/AplikasiCapstoneLaskarAI 
+
 # frontend-interface
 Created by :
 1. Sidqi Amanullah – Universitas Pendidikan Indonesia
@@ -12,6 +15,6 @@ HiTeman is a mobile application that provides personalized, ACT-based mental hea
 4. Lightweight and responsive for Android devices
 
 # 📱 Tech Stack
-1. Flutter/java/kotlin
+1. kotlin
 2. REST API integration with FastAPI backend
 3. Audio playback integration
