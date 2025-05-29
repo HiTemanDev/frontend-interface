@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/0edd9837-2666-4a06-883d-9c8baedc271e)Karena ada kesalahan upload 
+Karena ada kesalahan upload 
 berikut Link untuk mengakses file Mobile yang dibuat : https://github.com/Sidqiamn/AplikasiCapstoneLaskarAI 
 
 # frontend-interface
@@ -23,3 +23,4 @@ HiTeman is a mobile application that provides personalized, ACT-based mental hea
 
 ![Imgur](https://imgur.com/T3MK7TN.png)
 ![Imgur](https://imgur.com/T3MK7TN.png)
+
