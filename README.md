@@ -22,6 +22,6 @@ HiTeman is a mobile application that provides personalized, ACT-based mental hea
 
 # Hasil sementara masih belum jadi :
 
-![Imgur](https://imgur.com/T3MK7TN.png)
+![Imgur](https://imgur.com/Fp4wygl.png)
 ![Imgur](https://imgur.com/jBvMVYE.png)
 
