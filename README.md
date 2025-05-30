@@ -1,5 +1,5 @@
 Karena ada kesalahan upload 
-berikut Link untuk mengakses file Mobile yang dibuat : https://github.com/Sidqiamn/AplikasiCapstoneLaskarAI 
+berikut Link untuk mengakses file Mobile yang dibuat : https://github.com/Sidqiamn/AplikasiMobileCapstoneLaskarAI
 
 # frontend-interface
 Created by :
