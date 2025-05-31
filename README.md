@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/16774b2c-e8ee-4ea9-aa5c-f848fbd72c1c)Karena ada kesalahan upload 
+Karena ada kesalahan upload 
 berikut Link untuk mengakses file Mobile yang dibuat : https://github.com/Sidqiamn/AplikasiMobileCapstoneLaskarAI
 
 # frontend-interface
